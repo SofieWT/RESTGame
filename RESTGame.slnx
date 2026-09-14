@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RESTGame/RESTGame.csproj" />
+  <Project Path="TestRepository/TestRepository.csproj" />
+</Solution>
